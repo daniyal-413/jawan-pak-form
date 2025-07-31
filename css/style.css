@@ -49,7 +49,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-
+    background-color: white;
 }
 
 .form-heading {
@@ -156,4 +156,9 @@
 .input-section-button {
     text-align: center;
     margin: 10px auto;
+}
+
+option {
+    background-color: #014425;
+    color: whitesmoke;
 }
